@@ -1,5 +1,5 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: timed_message # 这是你的插件的唯一识别名。
+desc: 定时发送群聊消息插件，支持每天定时在指定群聊发送指定消息。 # 插件简短描述
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: AstrBot开发者 # 作者
+repo: https://github.com/AstrBotDevs/timed_message # 插件的仓库地址
